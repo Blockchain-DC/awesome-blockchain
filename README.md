@@ -3,8 +3,7 @@
 A collection of valuable resources for anyone starting to explore blockchain technologies
 
 ## awesome Bitcoin
-A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of bitcoin services and tools for software developers ![Bitcoin](http://image005.flaticon.com/1/svg/37/37054.svg)(https://bitcoin.com)
 
 List of content
 
