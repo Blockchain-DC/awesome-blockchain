@@ -2,6 +2,9 @@
 
 A collection of valuable resources for anyone starting to explore blockchain technologies
 
+## awesome DLT
+* [SWIFT on distributed ledger technologies](https://www.swift.com/insights/press-releases/swift-and-accenture-outline-path-to-distributed-ledger-technology-adoption-within-financial-services) - SWIFT's position paper on DLTs.
+
 ## awesome Bitcoin
 A curated list of bitcoin services and tools for software developers ![Bitcoin](http://image005.flaticon.com/1/svg/37/37054.svg)(https://bitcoin.com)
 
